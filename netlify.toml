@@ -1,0 +1,7 @@
+[[redirects]]
+from = "/*"
+to = "/search"
+status = 301
+query = {s = ":s"}
+force = true
+
